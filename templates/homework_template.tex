@@ -1,0 +1,154 @@
+\documentclass[11pt]{article}
+
+% =================================================
+% ||||||||||||||   General Imports   ||||||||||||||
+% =================================================
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\setlength{\parindent}{0px} 
+\usepackage{sqrcaps}
+\usepackage[T1]{fontenc}
+\usepackage{cancel} 
+\usepackage{framed} 
+\usepackage{mdframed}
+\usepackage{graphicx, tipa}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{asymptote}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage[document]{ragged2e}
+\usepackage[total={6.5in, 8in}]{geometry}
+\usepackage{amsmath, amsfonts, amssymb, mathtools, versions}
+
+\usepackage{fourier}
+\usepackage{adjustbox}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{anyfontsize}
+\begin{asydef}
+usepackage("fouriernc");
+\end{asydef}
+\newcommand{\overarc}[1]{{\setbox9=\hbox{#1}\ooalign{\resizebox{\wd9}{\height}{\texttoptiebar{\phantom{A}}}\cr#1}}}
+\DeclareMathOperator{\arcsec}{arcsec}
+\DeclareMathOperator{\arccot}{arccot}
+\DeclareMathOperator{\arccsc}{arccsc}
+\DeclareMathOperator{\lcm}{lcm}
+
+
+
+
+% =================================================
+% ||||||||||||||    Useful Items     ||||||||||||||
+% =================================================
+
+%For bolded items in enumerate
+\newenvironment{enumbf}{\begin{enumerate}[font=\textbf]}{\end{enumerate}}
+
+%For answer choices
+\newcommand{\ans}[5]{\bigskip
+
+$\textbf{(A)}\ #1 \qquad\textbf{(B)}\ #2 \qquad\textbf{(C)}\ #3 \qquad\textbf{(D)}\ #4 \qquad\textbf{(E)}\ #5$}
+
+%For colored boxed answer
+\newcommand{\bboxed}[1]{\color{maincolor}\boxed{#1}}
+
+%For solutions
+\newenvironment{solution}
+{
+\vspace{0.5mm}
+\begin{mdframed}[linewidth=3pt,leftline=true,rightline=false,bottomline=false,topline=false,linecolor=maincolor,backgroundcolor=maincolor!10]\color{maincolor}\textbf{\textsf{Solution: }}\color{black}
+
+}
+{\color{black}\end{mdframed}\vspace{0.5mm}}
+
+%For alternate solutions
+\newcommand{\orr}{
+    \begin{center}
+    \textbf{OR}
+    \end{center}
+}
+
+%For remarks
+\newcommand{\bbold}[1]{\color{maincolor}\textbf{\textsf{#1} }\color{black}} 
+
+%For problem proposers
+\newcommand{\prop}[1]{\color{maincolor}\textbf{\textsf{(#1)} }\color{black} } 
+
+%For headings (manual bigskips)
+\newcommand{\bhead}[1]{\textbf{\textsf{\Large #1}}\normalsize}
+
+%For headings (automatic bigskips)
+\newcommand{\bbhead}[1]{\bigskip\textbf{\textsf{\Large #1}}\normalsize\bigskip} 
+
+\newcommand{\pt}[1]{\textcolor{maincolor}{(#1 points)}}
+
+\newcommand{\pte}[1]{\textcolor{maincolor}{(#1 points each)}}
+
+
+
+
+
+% ==================================================
+% |||||||||   Title Page and Information   |||||||||
+% ==================================================
+
+\title{CS 2050 Spring 2024 Homework 1}
+\author{Due: January 19 @ 11:59 PM}
+\date{Released: January 12}
+
+\definecolor{maincolor}{RGB}{114, 140, 255} 
+
+
+
+\begin{document}
+
+\maketitle
+
+\begin{justify}
+    This assignment is due at \textbf{11:59 PM EDT} on \textbf{Friday, January 19, 2024}. Submissions submitted at least 24 hours prior to the due date will receive 2.5 points of extra credit. Submissions done in LaTeX will receive an additional 1.0 points of extra credit. On-time submissions receive no penalty. You may turn it in one day late for a 10-point penalty or two days late for a 25-point penalty. Assignments more than two days late will NOT be accepted.  We will prioritize on-time submissions when grading before an exam.
+
+    \bigskip
+
+    You should submit a typeset or \emph{neatly} written PDF on Gradescope.  The grading TA should not have to struggle to read what you've written; if your handwriting is hard to decipher, you will be required to typeset your future assignments. Illegible solutions will be given 0 credit. A 5-point penalty will occur if pages are incorrectly assigned to questions or not properly oriented when submitting.
+
+    \bigskip
+
+    You may collaborate with other students, but any written work should be your own. Write the names of the students you work with on the top of your assignment.
+
+    \bigskip
+
+    \textbf{Always justify your work}, even if the problem doesn't specify it. It can help the TA's to give you partial credit.
+
+    \bigskip
+
+    Author(s): \textbf{Insert Names Here}
+
+\clearpage
+
+
+
+
+% =================================================
+% ||||||||||||||      Questions      ||||||||||||||
+% =================================================
+
+\begin{enumerate}
+
+    \item \pte{2} Insert question with multiple parts here
+    
+    \begin{enumerate}
+        \item Question a
+            \begin{solution}
+                Solution to question a
+            \end{solution}
+
+        \item Question b
+        \item Question c
+    \end{enumerate}
+
+    \item \pt{10} Insert standalone question here
+    
+\end{enumerate}
+\end{justify}
+\end{document}
