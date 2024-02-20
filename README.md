@@ -50,3 +50,5 @@ As always, if you have any questions or run into an errors, feel free to reach o
 - [Tutorials](tutorials)
 	- [Tables using Tabular](tutorials/tables.md)
 	- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
+	- [Font Size](tutorials/font%20size.md)
+	- [Font Colour](tutorials/font%20colour.md)
