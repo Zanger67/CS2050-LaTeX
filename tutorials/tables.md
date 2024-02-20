@@ -1,7 +1,5 @@
 # Tables -- Using `Tabular`
-
-${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](https://github.com/Zanger67/CS2050-Overleaf/blob/main/tutorials/multi-page%20tables.md)_
-
+${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](multi-page%20tables.md)_
 
 `tabular` is the most straight forwards in my opinion for this.
  
