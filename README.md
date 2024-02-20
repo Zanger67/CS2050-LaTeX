@@ -13,6 +13,15 @@ Some courses known to sometimes require or encourage LaTeX or a form of typed su
 - MATH 3012 Combinatorics
 - Many MANY upper level courses in the MATH department (looking at you Theory threads)
 
+```mermaid
+%% graph TD
+graph LR
+
+A(CS 2050/2051 Discrete) --> B(MATH 3012 Combo)
+	A --> C(CS 3510 Algo)
+	C --> D(CS 4510 Automata)
+```
+
 
 
 While this repo won't cover EVERYTHING, we'll provide some basic templates and methods to structure documents to get you started.
