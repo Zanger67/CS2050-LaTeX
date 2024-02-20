@@ -55,6 +55,7 @@ Here are the two side by side to see the differences. As you can see, it's not t
 
    ```latex
    % no package to import
+   
 
    % ...
 
@@ -74,6 +75,7 @@ Here are the two side by side to see the differences. As you can see, it's not t
    <td>
 
    ```latex
+   % make sure this is at the top
    \usepackage{longtable}
    
    % ...
