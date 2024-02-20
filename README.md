@@ -59,12 +59,9 @@ As always, if you have any questions or run into an errors, feel free to reach o
 - [Tutorials](tutorials)
 	- [Tables using Tabular](tutorials/tables.md)
 	- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
-<<<<<<< HEAD
 	- [Font Size](tutorials/font%20size.md)
 
 ## IP
 - [Font Colour](tutorials/font%20colour.md)
 
 <!-- Add parent files to link font size, colour, etc. together to explain different options e.g. if table is too big -->
-=======
->>>>>>> 0abd0af0cd0c4d13d93546f043cd1c8fbdc95e03
