@@ -9,13 +9,61 @@ At the top with the rest of the packages, make sure to have longtable imported.
 
 Besides that, the useage is extremly similar to `tabular`
 
-<table border="0">
+<!-- <table border="0">
  <tr>
     <td><b style="font-size:25px">Tabular</b></td>
     <td><b style="font-size:25px">Longtable</b></td>
  </tr>
+
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+    something
+    </td>
+    <td>
+    something2
+    </td>
  </tr>
-</table>
+</table> -->
+
+
+
+
+```latex
+\begin{tabular}{rc|c}
+    \# & \textbf{Statement} & \textbf{Reason} \\
+    \hline
+
+
+\end{tabular}
+```
+
+
+```latex
+% {rc|c} means right-alight, centre, separating line, centre for the columns
+% I usually have the rc|c so I have a column for the number lines 1, 2, 3...
+\begin{longtable}[c]{rc|c}
+    # & \textbf{Statement} & \textbf{Reason} \\
+    \hline
+    
+    1. & left column & right column \\
+    % insert more rows...
+    
+    % "&" tells LaTeX to go to the next column 
+    % "\\" tells it to the next line
+\end{longtable}
+```
+
+
+
+
+
+
+
+## Example
+
+```latex
+this
+
+```
+would yield this:
+*insert image
