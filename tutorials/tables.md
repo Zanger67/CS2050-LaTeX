@@ -49,7 +49,7 @@ These are specifically for the `{rc|c}` part of `\begin{tabular}`
 
 
 
-### Examples
+### Character Examples
 <table border="0">
  <tr>
     <td>

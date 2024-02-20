@@ -38,3 +38,15 @@ As always, if you have any questions or run into an errors, feel free to reach o
 <h3><i>
 <p align="right" width="100%"> - the CS2050 TAs :) </p>
 <i/><h3/>
+<br/>
+
+
+------
+<br/>
+
+# Repo Table of Contents
+- [Templates](templates)
+	- [Homework Template.tex](templates/homework_template.tex)
+- [Tutorials](tutorials)
+	- [Tables using Tabular](tutorials/tables.md)
+	- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
