@@ -1,4 +1,8 @@
 # Tables -- Using `Tabular`
+
+[$\textit{{\color{gray}\textnormal{Click here for a regular table}}}$](tutorials\multi-page tables.md)
+
+
 `tabular` is the most straight forwards in my opinion for this.
 
 It should be auto-imported so there isn't a need to use `\usepackage{tabular}`. 
