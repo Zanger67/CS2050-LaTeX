@@ -1,5 +1,7 @@
 # Tables -- Using `Tabular`
-${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](multi-page%20tables.md)_
+<!-- ${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](multi-page%20tables.md)_ -->
+
+_[Click here for `longtables` i.e. multi-page tables.](multi-page%20tables.md)_
 
 `tabular` is the most straight forwards in my opinion for this.
  
@@ -13,7 +15,7 @@ Below is a template you can copy and paste in if you'd prefer, but it's good to 
     \# & \textbf{Statement} & \textbf{Reason} \\
     \hline
 
-    1.  & $insert line$ & insert reasoning \\
+    1.  & insert statement & insert reasoning \\
     2.  & ... &  \\
     .   & ... &  \\
     .   & ... &  \\
