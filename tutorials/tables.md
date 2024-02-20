@@ -25,6 +25,7 @@ Below is a template you can copy and paste in if you'd prefer, but it's good to 
 
 
 ## Character Meanings
+
 | Expression | Functionality | Additional Information |
 | ---- | ---- | ---- |
 | `\\` | New line/row | $\rightarrow$ even if you're in the middle column it'll jump to cell 0 of the next line |

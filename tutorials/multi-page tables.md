@@ -43,6 +43,8 @@ I usually have the `rc|c` structure so I have a column for the numbering lines 1
 _[Click here for `tabular`](tables.md)_
 
 Here are the two side by side to see the differences. As you can see, it's not that much. The implementations besides the initial `\usepackage{}` and `\begin{}` header are identical. 
+
+<p align="center">
 <table>
    <tr>
       <th>Tabular</th>
@@ -55,7 +57,7 @@ Here are the two side by side to see the differences. As you can see, it's not t
 
    ```latex
    % no package to import
-   
+
 
    % ...
 
@@ -95,7 +97,7 @@ Here are the two side by side to see the differences. As you can see, it's not t
    </td>
    </tr>
 </table>
-
+</p>
 
 
 
