@@ -17,9 +17,17 @@ Some courses known to sometimes require or encourage LaTeX or a form of typed su
 %% graph TD
 graph LR
 
-A(CS 2050/2051 Discrete) --> B(MATH 3012 Combo)
-	A --> C(CS 3510 Algo)
-	C --> D(CS 4510 Automata)
+%% Courses
+cs2050(CS 2050/2051 Discrete)
+math3012(MATH 3012 Combo)
+cs3510(CS 3510 Algo)
+cs4510(CS 4510 Automata)
+
+cs2050 --> math3012
+cs2050 --> cs3510
+cs3510 --> cs4510
+math3012 --> cs4510
+	
 ```
 
 
