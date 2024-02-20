@@ -45,10 +45,15 @@ As always, if you have any questions or run into an errors, feel free to reach o
 <br/>
 
 # Repo Table of Contents
+## Completed Pages
 - [Templates](templates)
 	- [Homework Template.tex](templates/homework_template.tex)
 - [Tutorials](tutorials)
 	- [Tables using Tabular](tutorials/tables.md)
 	- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
 	- [Font Size](tutorials/font%20size.md)
-	- [Font Colour](tutorials/font%20colour.md)
+
+## IP
+- [Font Colour](tutorials/font%20colour.md)
+
+<!-- Add parent files to link font size, colour, etc. together to explain different options e.g. if table is too big -->
