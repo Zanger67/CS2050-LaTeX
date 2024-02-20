@@ -1,4 +1,4 @@
-# Multi-Page Tables -- Using `longtable`
+# Multi-Page Tables -- Using `Longtable`
 ${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](tables.md)_
 
 If you want a table to spill onto a new line vertically while maintaining the previous appearance (e.g. column widths, center, etc.), you can use the package `longtable`.
