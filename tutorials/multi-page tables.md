@@ -29,16 +29,6 @@ Besides that, the useage is extremly similar to `tabular`
 
 
 ```latex
-\begin{tabular}{rc|c}
-    \# & \textbf{Statement} & \textbf{Reason} \\
-    \hline
-
-
-\end{tabular}
-```
-
-
-```latex
 % {rc|c} means right-alight, centre, separating line, centre for the columns
 % I usually have the rc|c so I have a column for the number lines 1, 2, 3...
 \begin{longtable}[c]{rc|c}
