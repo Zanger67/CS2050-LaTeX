@@ -1,14 +1,14 @@
 # Tables -- Using `Tabular`
 
-[$\textit{{\color{gray}\textnormal{Click here for a regular table}}}$](tutorials\multi-page tables.md)
+${{\color{gray}\textnormal{Click here for a regular table\:}}}$ _[link](https://github.com/Zanger67/CS2050-Overleaf/blob/main/tutorials/multi-page%20tables.md)_
 
 
 `tabular` is the most straight forwards in my opinion for this.
-
+ 
 It should be auto-imported so there isn't a need to use `\usepackage{tabular}`. 
 
 
-Afterwards, you can paste the below in.
+Below is a template you can copy and paste in if you'd prefer, but it's good to understand how it works incase some issue comes up! E.g. if a character is accidently deleted.
 
 ```latex
 \begin{tabular}{rc|c}
@@ -45,6 +45,8 @@ These are specifically for the `{rc|c}` part of `\begin{tabular}`
 | `c` | Adds a centred-column |  |
 | `\|` | Inserts vertical bar into table at this spot | The bar character between BACKSPACE and ENTER |
 | `\|\|` | Inserts a double dividing bar |  |
+
+
 
 ### Examples
 <table border="0">
