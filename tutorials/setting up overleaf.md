@@ -22,9 +22,3 @@ And there you go. Press compile or `ctrl` + `s` to compile the template for the 
 
 > Go to the [Overleaf tips](overleaf%20tips.md) page for more details on how to make the best use of the site.
 
-## Overleaf Keyboard Shortcuts
-
-Keys | Effect
---- | ---
-`ctrl` + `s` | Recompiles the project aka you're view of the output file on the right.
-`alt` + drag `left mouse button` | Highlights parts of code according to the box you make instead of by line. </br></br> This may be very useful if you want to edit multiple spots e.g. on a table. 
