@@ -85,3 +85,32 @@ These are specifically for the `{rc|c}` part of `\begin{tabular}`
     </td>
  </tr>
 </table>
+
+
+<!-- Insert example of proof, of Big-O cause dif format, of truth tables, etc. -->
+## Full Examples
+<table border="0">
+ <tr>
+    <td>
+    Code
+    </td>
+    <td>
+    Output
+    </td>
+    <td>
+    Notes
+    </td>
+ </tr>
+  <tr>
+    <td>
+    j | c
+    </td>
+    <td>
+    2 columns with a dividing bar
+    </td>
+    <td>
+    justified, centred
+    </td>
+ </tr>
+
+</table>
