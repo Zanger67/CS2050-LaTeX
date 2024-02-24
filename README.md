@@ -44,6 +44,8 @@ probStat --> cs4510
 While this repo won't cover EVERYTHING, we'll provide some basic templates and methods to structure documents to get you started.
 
 > If you're first getting started, we recommend using the [Overleaf](https://www.overleaf.com/) editor but any will suffice. All we see in the end is the exported PDF after all. :\)
+>
+> Don't feel pressured though if you want to try something else first. I personally started learning `LaTeX` by using Miscrosoft Word's built-in `LaTeX` engine to get used to the formulas, then shifted to Overleaf for document editing.
 
 _Note: we've found that some packages present in the provided `.tex` homework file are incompatible with some compilers/editors. So if you're using the file we provide, it's strongly suggest that you use Overleaf._
 
