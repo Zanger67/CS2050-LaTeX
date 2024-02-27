@@ -22,7 +22,7 @@ Keys | Effect
 
 ### Compiling types
 
-| Typically, Overleaf defaults to `fast compile` meaning that when you make edits, it'll often only recompile the parts that you've edited. I personally like having `normal` turned on since it guarentees that I'll catch propogating errors. </br></br></br></br></br></br></br></br>| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](image-8.png?raw=true) |
+| Typically, Overleaf defaults to `fast compile` meaning that when you make edits, it'll often only recompile the parts that you've edited. </br> </br>This has caused some people issues in the past and so I personally like having `normal` turned on since it guarentees that I'll catch propogating errors. </br></br></br></br></br></br></br></br>| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](image-8.png?raw=true) |
 |:-|-|
 
 

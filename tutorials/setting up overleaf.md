@@ -3,7 +3,7 @@ Welcome to the world of `LaTeX`! Here you'll find a short step-by-step to creati
 
 Overleaf, for those that don't know, is essentially an online editor and compiler for `LaTeX` that allows you to store, access, and share like you would a `Google Doc` ! It even allows live-editing by multiple users at the same time.
 
-You can either make your own account or login using your @gatech.edu email. If you use your Georgia Tech login, there are a few templates that you'll have access to from the getgo which may be useful until you get a stronger grasp. You can also link your two accounts so you have access to all the Gatech files.
+You can either make your own account or login using your `@gatech.edu` email. If you use your Georgia Tech login, there are a few templates that you'll have access to from the getgo which may be useful until you get a stronger grasp. You can also link your two accounts so you have access to all the Gatech files.
 
 
 

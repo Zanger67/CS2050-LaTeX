@@ -21,7 +21,7 @@ Replace ***INSERT*** with one of the following:
 - `Large`
 - `LARGE`
 - `huge`
-- `HUGE`
+- `Huge`
 
 > ❗️ We recommend only using `footnotesize` or larger. 
 > Readability can be difficult at smaller levels, especially with equations and tables. 
@@ -42,7 +42,7 @@ This text WON'T be affected
 This text WON'T be affected
 ```
 
-## Directly using `\something`
+## Directly using `\fontsize`
 Alteratively, you can also use the command itself directly. 
 
 ```latex
@@ -55,7 +55,7 @@ Alteratively, you can also use the command itself directly.
 \Large
 \LARGE
 \huge
-\HUGE
+\Huge
 ```
 
 Note that this will propogate and continue until it hits the end of a `{}` bracket pair. When you use these, you should surround the area you want affected with `{}` brackets.
@@ -69,6 +69,31 @@ this text WON'T be affect
 this text WON'T be affect
 ```
 
+## Reference Images and Notes
+
+
+The following code was used to compile the following PDF and images for reference. Click on any of the images to see the actual PDF.
+```Latex
+\section{Font Comparison}
+
+{\tiny REFERENCE TEXT reference text $\rightarrow$ Tiny size}\\
+{\scriptsize REFERENCE TEXT reference text $\rightarrow$ scriptsize size}\\
+{\footnotesize REFERENCE TEXT reference text $\rightarrow$ footnotesize size}\\
+{\small REFERENCE TEXT reference text $\rightarrow$ small size}\\
+{\normalsize REFERENCE TEXT reference text $\rightarrow$ normalsize size}\\
+{\large REFERENCE TEXT reference text $\rightarrow$ large size}\\
+{\Large REFERENCE TEXT reference text $\rightarrow$ Large size}\\
+{\LARGE REFERENCE TEXT reference text $\rightarrow$ LARGE size}\\
+{\huge REFERENCE TEXT reference text $\rightarrow$ huge size}\\
+{\Huge REFERENCE TEXT reference text $\rightarrow$ Huge size}\\
+```
+*Zoomed in* 
+[![alt text](image-10.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
+
+*Letter/A4 paper reference*
+[![alt text](image-9.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
+
+[Link to the PDF to view](../reference%20files/Font%20Sizes%20Sample.pdf)
 
 
 ## Related Stuff

@@ -62,9 +62,11 @@ As always, if you have any questions or run into an errors, feel free to reach o
 
 <br/><br/><br/>
 
-# Guide to the Guide
+# Guide to the Guide / Recommended Pages
 If you're unsure where to begin, here's a list of pages you should view in order:
-- Setting up overleaf
+- [Setting up Overleaf for the first time](tutorials/setting%20up%20overleaf.md)
+- [Tips for Overleaf](tutorials/overleaf%20tips.md)
+
 ...
 
 
@@ -76,15 +78,24 @@ If you're unsure where to begin, here's a list of pages you should view in order
 - [Templates](templates)
 	- [Homework Template.tex](templates/homework_template.tex)
 - [Tutorials](tutorials)
-	- [Tables using Tabular](tutorials/tables.md)
-	- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
-	- [Font Size](tutorials/font%20size.md)
+	- Getting Started
+		- [Getting Overleaf setup for the first time](tutorials/setting%20up%20overleaf.md)
+		- [Overleaf Tips](tutorials/overleaf%20tips.md)
+	- Tables
+		- [Tables using Tabular](tutorials/tables.md)
+		- [Tables \(Multipage\) using Longtable](tutorials/multi-page%20tables.md)
+	- Everything About Fonts
+		- [Font Size](tutorials/font%20size.md)
+		- [Font Colour](tutorials/font%20colour.md)
 
 ## IP
-- [Font Colour](tutorials/font%20colour.md)
-- [Setting Up Overleaf](tutorials/setting%20up%20overleaf.md)
 - Making things fit
 - Solution box -- colour change?
+- FAQ page
+- Unit specific stuff for things like AND and OR symbols, XOR, unions, etc.
+- Sets --> natural numbers, integers, postiive ingers, etc. --> add the grpah
+
+
 
 
 <!-- Add parent files to link font size, colour, etc. together to explain different options e.g. if table is too big -->
