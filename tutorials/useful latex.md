@@ -9,7 +9,7 @@ therefore | `\therefore` | $\therefore$
 equivalent to | `\equiv` | $\equiv$
 square root | `\sqrt{x}` | $\sqrt{x}$
 n-th root | `\sqrt[n]{x}` | $\sqrt[n]{x}$
-times | `\times` *or* `\cdot` | $``\times"$ *or* $``\cdot"$
+times | `\times` *or* `\cdot` | "$\times$" *or* " $\cdot$ "
 not equals | `\neq` | $\neq$
 exponent | `x^{something}` | $x^{something}$
 subscript | `x_{something}` | $x_{something}$
