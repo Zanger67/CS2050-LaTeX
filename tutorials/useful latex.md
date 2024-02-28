@@ -55,17 +55,17 @@ Exists | `\exists` |  | $\exists$
 
 ## Sets
 
-Name | Code | Alt Code | Result
-| :- | :- | :- | :- |
-Union | `\cup` |  | $\cup$
-Intersection | `\cap` |  | $\cap$
-Complement (c) | `S^c` |  | $S^c$
-Complement (bar) | `\bar{S}` |  | $\bar{S}$
-Difference | `\setminus` | `\\` | $\setminus$ (backslash is a special operator) *or* </br>`-` just use a minus sign
-Empty set | `\empty` | `\{\}` | $\empty$ *or* { }
-Power set | `\mathbb{P}(S)` |  | $\mathbb{P}(S)$
-Element of / in | `\in` |  | $\in$
-Not element of / not in | `\notin` |  | $\notin$
+Name | Code | Result
+| :- | :- | :- |
+Union | `\cup` | $\cup$
+Intersection | `\cap` | $\cap$
+Complement (c) | `S^c` | $S^c$
+Complement (bar) | `\bar{S}` | $\bar{S}$
+Difference | `\setminus` `\\` | $\setminus$ (backslash is a special operator) *or* </br>`-` just use a minus sign
+Empty set | `\empty` `\emptyset` `\{\}`| $\emptyset$ *or* { }
+Power set | `\mathbb{P}(S)` | $\mathbb{P}(S)$
+Element of / in | `\in` | $\in$
+Not element of / not in | `\notin` | $\notin$
 
 
 
