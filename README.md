@@ -93,9 +93,27 @@ If you're unsure where to begin, here's a list of pages you should view in order
 - Solution box -- colour change?
 - FAQ page
 - Unit specific stuff for things like AND and OR symbols, XOR, unions, etc.
+	- useful formulas like SUM, leq, forall, etc.
+	- useful axioms and theorems that can be applied e.g. def of biconditional, def of even integer, etc.
 - Sets --> natural numbers, integers, postiive ingers, etc. --> add the grpah
+- Links from pages to actual projects implementing them to show
+	- Template overleaf project with examples of everything that they can make a copy of and fiddle? Maybe number files so that they stay in the order we recommend?
 
+- programming demonstraiton video for latex? lol
+- separate one for just formulas?
+
+- add useful latex formula stuff for things like SUM and whatnot
 
 
 
 <!-- Add parent files to link font size, colour, etc. together to explain different options e.g. if table is too big -->
+
+
+
+
+
+<!-- ```mermaid -->
+<!-- graph LR -->
+<!-- fitting(test) -->
+<!-- click fitting "tutorials/font%20size.md" "idk this is a test" -->
+<!-- ``` -->
