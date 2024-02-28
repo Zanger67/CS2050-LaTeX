@@ -78,6 +78,7 @@ If you're unsure where to begin, here's a list of pages you should view in order
 - [Templates](templates)
 	- [Homework Template.tex](templates/homework_template.tex)
 - [Tutorials](tutorials)
+	- [Equation LaTeX Help](tutorials/useful%20latex.md)
 	- Getting Started
 		- [Getting Overleaf setup for the first time](tutorials/setting%20up%20overleaf.md)
 		- [Overleaf Tips](tutorials/overleaf%20tips.md)
