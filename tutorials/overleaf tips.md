@@ -10,14 +10,14 @@ A lot of these shortcuts aren't specific to Overleaf and very handy for other pr
 
 Keys | Effect
 --- | ---
-`ctrl` + `s` | Recompiles the project aka you're view of the output file on the right.
-`shift` + `tab` | Unindents selected lines (i.e., it's basically a `reverse-tab`)
+`ctrl` + `s`                        | Recompiles the project aka you're view of the output file on the right.
+`shift` + `tab`                     | Unindents selected lines (i.e., it's basically a `reverse-tab`)
 `alt` + `up arrow` $\uparrow$ </br> `alt` + `down arrow` $\downarrow$ | Shifts all selected text up/down a line (exchanges it with the line above/below)
-`alt` + drag `left mouse button` | Highlights parts of code according to the box you make instead of by line. </br></br> This may be very useful if you want to edit multiple spots e.g. on a table. 
-`ctrl` + `left mouse button` | Allows you to click multiple spots while keeping cursors in them all.</br></br> This may be useful if you're trying to for instance add a $T$ in multiple spots of a truth table.
-`ctrl` + `u` | Turns all selected text to uppercase
-`ctrl` + `shift` + `u` | Turns all selected text to lowercase
-`ctrl` + `space` | Opens the **autocomplete** menu
+`alt` + drag `left mouse button`    | Highlights parts of code according to the box you make instead of by line. </br></br> This may be very useful if you want to edit multiple spots e.g. on a table. 
+`ctrl` + `left mouse button`        | Allows you to click multiple spots while keeping cursors in them all.</br></br> This may be useful if you're trying to for instance add a $T$ in multiple spots of a truth table.
+`ctrl` + `u`                        | Turns all selected text to uppercase
+`ctrl` + `shift` + `u`              | Turns all selected text to lowercase
+`ctrl` + `space`                    | Opens the **autocomplete** menu
 
 </br>
 

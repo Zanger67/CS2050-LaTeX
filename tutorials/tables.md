@@ -26,12 +26,12 @@ Below is a template you can copy and paste in if you'd prefer, but it's good to 
 
 ## Character Meanings
 
-| Expression | Functionality | Additional Information |
+| Expression | Functionality  | Additional Information |
 | ---- | ---- | ---- |
-| `\\` | New line/row | $\rightarrow$ even if you're in the middle column it'll jump to cell 0 of the next line |
-| `&` | Next column | `&&` will skip the cell and leave it blank |
-| `\hline` | Horizontal line | Adds a horizontal line that helps create a `t` shape table |
-| `\#` | Hashtag | Hashtags are special characters so the `\` indicates that we want a literal hashtag. This is optional I just like using it to denote the row count column. You could just leave this column blank. |
+| `\\`      | New line/row    | $\rightarrow$ even if you're in the middle column it'll jump to cell 0 of the next line |
+| `&`       | Next column     | `&&` will skip the cell and leave it blank |
+| `\hline`  | Horizontal line | Adds a horizontal line that helps create a `t` shape table |
+| `\#`      | Hashtag         | Hashtags are special characters so the `\` indicates that we want a literal hashtag. This is optional I just like using it to denote the row count column. You could just leave this column blank. |
 
 
 

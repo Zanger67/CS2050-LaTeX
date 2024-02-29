@@ -17,7 +17,7 @@ At the top with the rest of the packages, make sure to have longtable imported.
 Besides that, the useage is extremly similar to `tabular`.
 
 ```latex
-\begin{longtable}[c]{rc|c}
+\begin{longtable}{rc|c}
     \# & \textbf{Statement} & \textbf{Reason} \\
     \hline
     
@@ -33,11 +33,35 @@ Besides that, the useage is extremly similar to `tabular`.
 
 I usually have the `rc|c` structure so I have a column for the numbering lines 1, 2, 3...
 
+> Note: `longtable` will auto-centre the table in the page to ensure that the table lines up with a new page when it spills over. Tabular will not and just cut.
 
-**INSERT IMAGE OF THIS BEING PROCESSED**
+## Example
+
+Here's some code. If say the following where to involve going over the end of one page, this would be the correspondig output...
+```latex
+\begin{longtable}{lr|c}
+   \# & \textbf{Statement} & \textbf{Reason} \\
+   \hline
+   
+   1. & statement   & reason \\
+   .  & ...         & ... \\
+   .  & Obi:        & Hello There! \\
+   .  & Grievous:   & General Kenobi. \\
+   .  & Grievous:   & You are a bold one. \\
+   .  & Grievous:   & Back away! I will deal with this Jedi slime \textit{myself}. \\
+   .  & Background: & \textit{Insert clanker noises here} \\ 
+   .  & Obi:        & Your move. \\
+   .  & Grievous:   & You \textit{fool}. I've been trained in your Jedi arts by Count Dooku. \\
+   .  & Grievous:   & Attack Kenobi! \\
+   .  & Background: & \textit{Insert lightsaber vrms} \\
+   .  & ...         & ... \\
+
+```
+
+![alt text](image-18.png)
 
 
-
+</br>
 
 ## `Tabular` vs `Longtable`
 _[Click here for `tabular`](tables.md)_
@@ -54,7 +78,7 @@ Here are the two side by side to see the differences. As you can see, it's not t
    
    <tr>
    <td>
-
+   
    ```latex
    % no package to import
 
@@ -66,10 +90,10 @@ Here are the two side by side to see the differences. As you can see, it's not t
       \hline
 
       1.  & statement & reason \\
-      2.  & ... &  \\
-      .   & ... &  \\
-      .   & ... &  \\
-      .   & ... &  \\
+      2.  & ... & ... \\
+      .   & ... & ... \\
+      .   & ... & ... \\
+      .   & ... & ... \\
    \end{tabular}
    ```
    </td>
@@ -95,6 +119,16 @@ Here are the two side by side to see the differences. As you can see, it's not t
    ```
 
    </td>
+   </tr>
+
+
+
+
+
+   <tr>
+      <td width="50%"><img src="image-14.png" alt="Tabular Screenshot"></td>
+      <td width="50%"><img src="image-14.png" alt="Longtable Screenshot"></td>
+      
    </tr>
 </table>
 </p>

@@ -104,6 +104,7 @@ If you're unsure where to begin, here's a list of pages you should view in order
 - separate one for just formulas?
 
 - add useful latex formula stuff for things like SUM and whatnot
+- Exporting PDFs
 
 
 

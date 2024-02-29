@@ -23,6 +23,8 @@ Replace ***INSERT*** with one of the following:
 - `huge`
 - `Huge`
 
+</br>
+
 > ❗️ We recommend only using `footnotesize` or larger. 
 > Readability can be difficult at smaller levels, especially with equations and tables. 
 > 
