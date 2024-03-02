@@ -55,6 +55,7 @@ Here's some code. If say the following where to involve going over the end of on
    .  & Grievous:   & Attack Kenobi! \\
    .  & Background: & \textit{Insert lightsaber vrms} \\
    .  & ...         & ... \\
+\end{longtable}
 
 ```
 
@@ -132,6 +133,8 @@ Here are the two side by side to see the differences. As you can see, it's not t
    </tr>
 </table>
 </p>
+
+*They look the **exact** same. :p*
 
 
 

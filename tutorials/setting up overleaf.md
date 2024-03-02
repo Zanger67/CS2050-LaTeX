@@ -9,7 +9,7 @@ You can either make your own account or login using your `@gatech.edu` email. If
 
 
 
-Setup            |  Visual
+Setup                     |  Visual
 :-------------------------|:-------------------------
 Go to [overleaf.com](overleaf.com) and click "login" at the top right. | ![alt text](image.png?raw=true) 
 Click at the bottom where it says "Log In with SSO" and follow the instructions using your GT Login. </br></br>You can link your personal email too later or create an account using that. | ![alt text](image-1.png?raw=true)

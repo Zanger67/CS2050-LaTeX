@@ -42,6 +42,8 @@ XOR                 | `\oplus`          | `\veebar`         | $\oplus$, $\veebar
 Implies             | `\rightarrow`     | `\Rightarrow`     | $\rightarrow, \Rightarrow$
 Biconditional / IFF | `\leftrightarrow` | `\Leftrightarrow` | $\leftrightarrow$, $\Leftrightarrow$
 
+> Note that `\veebar` requres `\usepackage{amssymb}` . This should already be imported in our template.
+
 
 ## Quantifiers
 Name   | Code      | Result
