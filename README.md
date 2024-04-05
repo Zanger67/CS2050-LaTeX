@@ -6,7 +6,7 @@ For those that aren't aware of what `LaTeX` is, it's basically a way to code you
 
 While not necessary, learning `LaTeX` at this point of your degree can be incredibly helpful later on down the road when courses get more difficult. Some courses require or provide incentives for submitting projects and assignments in `LaTeX`, and other situations may find a use for it such as for making resumes or if you wish to pursue academia in the future! 
 
-`LaTeX` usage can also appear in a lot of other environments. GradeScope textbox questions allow you to type `Markdown` and `LaTeX` inside. For latex, you can surround your equations with triple equal signs (e.g. `$$$\frac{a}{b}$$$`). This also allows you to insert tables, matricies, bold text, coloured text, etc. into GradeScope if you're so inclined for the fun of it. Ed discussion also allows you to use `markdown` codeblocks and `LaTeX` which can make asking questions and communicating easier. 
+`LaTeX` usage can also appear in a lot of other environments. GradeScope textbox questions allow you to type `Markdown` and `LaTeX` inside. For latex, you can surround your equations with double dollar signs (e.g. `$$\frac{a}{b}$$`). This also allows you to insert tables, matricies, bold text, coloured text, etc. into GradeScope if you're so inclined for the fun of it. Ed discussion also allows you to use `Markdown` codeblocks and `LaTeX` which can make asking questions and communicating easier. 
 <!-- Insert a new page for benefits and other applications? -->
 
 > **_In the case of 2050, to encourage you to learn, we offer a slight bonus for typeset homework submissions (Spring 2024)._**
