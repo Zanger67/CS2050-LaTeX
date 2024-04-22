@@ -59,7 +59,7 @@ Here's some code. If say the following where to involve going over the end of on
 
 ```
 
-![alt text](image-18.png)
+![alt text](../attachments/image-18.png)
 
 
 </br>
@@ -127,8 +127,8 @@ Here are the two side by side to see the differences. As you can see, it's not t
 
 
    <tr>
-      <td width="50%"><img src="image-14.png" alt="Tabular Screenshot"></td>
-      <td width="50%"><img src="image-14.png" alt="Longtable Screenshot"></td>
+      <td width="50%"><img src="../attachments/image-14.png" alt="Tabular Screenshot"></td>
+      <td width="50%"><img src="../attachments/image-14.png" alt="Longtable Screenshot"></td>
       
    </tr>
 </table>

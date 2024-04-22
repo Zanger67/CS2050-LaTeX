@@ -2,7 +2,7 @@
 In the file we provide, you can use our built-in solution box to highlight what your answer is. 
 
 *From our template:*
-![alt text](image-11.png)
+![alt text](../attachments/image-11.png)
 
 
 </br>

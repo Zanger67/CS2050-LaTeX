@@ -25,7 +25,7 @@ Keys | Effect
 
 ### Compiling types
 
-| Typically, Overleaf defaults to `fast compile` meaning that when you make edits, it'll often only recompile the parts that you've edited. </br> </br>This has caused some people issues in the past and so I personally like having `normal` turned on since it guarentees that I'll catch propogating errors. </br></br>Again as well, `ctrl` + `s` tells Overleaf to immediately recomplile again -- based off of this setting. </br></br></br></br></br></br>| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](image-8.png?raw=true) |
+| Typically, Overleaf defaults to `fast compile` meaning that when you make edits, it'll often only recompile the parts that you've edited. </br> </br>This has caused some people issues in the past and so I personally like having `normal` turned on since it guarentees that I'll catch propogating errors. </br></br>Again as well, `ctrl` + `s` tells Overleaf to immediately recomplile again -- based off of this setting. </br></br></br></br></br></br>| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](../attachments/image-8.png?raw=true) |
 |:-|-|
 
 

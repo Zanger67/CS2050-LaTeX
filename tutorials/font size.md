@@ -90,10 +90,10 @@ The following code was used to compile the following PDF and images for referenc
 {\Huge REFERENCE TEXT reference text $\rightarrow$ Huge size}\\
 ```
 *Zoomed in* 
-[![alt text](image-10.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
+[![alt text](../attachments/image-10.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
 
 *Letter/A4 paper reference*
-[![alt text](image-9.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
+[![alt text](../attachments/image-9.png)](../reference%20files/Font%20Sizes%20Sample.pdf)
 
 [Link to the PDF to view](../reference%20files/Font%20Sizes%20Sample.pdf)
 
