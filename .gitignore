@@ -1,1 +1,9 @@
 /ignore
+
+*.gz
+*.pre
+*.out
+*.log
+*.fls
+*.fdb_latexmk
+*.aux
